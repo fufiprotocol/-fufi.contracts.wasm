@@ -1,1 +1,1 @@
-# -fufi.contracts.wasm
+# fufi.contracts.wasm
